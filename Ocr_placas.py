@@ -1,6 +1,7 @@
 
 import os
 import cv2
+import numpy as np  
 import pytesseract
 import shutil
 from PIL import Image
@@ -21,15 +22,31 @@ class Placa:
         self.h = int(h)
         self.texto_ocr = ""
 
-# Recorta a imagem de acordo com localização x,y
-def RecortarImagem(placa):
+# Recorta a imagem de acordo com localização x,y e redimensiona para altura fixa
+def RecortarImagem(placa, altura_alvo=600):
     imagem = cv2.imread(placa.imagem_original)
     if imagem is None:
         print(f"[ERRO] Imagem não encontrada: {placa.imagem_original}")
         return
+
+    # recorte
     roi = imagem[placa.y:placa.y + placa.h, placa.x:placa.x + placa.w]
+
+    # calcula nova largura mantendo proporção
+    h_roi, w_roi = roi.shape[:2]
+    escala = altura_alvo / float(h_roi)
+    largura_alvo = int(w_roi * escala)
+
+    # redimensiona o ROI
+    roi_resized = cv2.resize(
+        roi,
+        (largura_alvo, altura_alvo),
+        interpolation=cv2.INTER_AREA
+    )
+
+    # salva o resultado
     caminho_saida = os.path.join("PlacasCortadas", placa.titulo)
-    cv2.imwrite(caminho_saida, roi)
+    cv2.imwrite(caminho_saida, roi_resized)
     placa.imagem_cortada = caminho_saida
 
 # Pré-processamento da imagem para melhor extração do texto
@@ -38,10 +55,6 @@ def PreProcessamentoImagem(placa):
     if imagem is None:
         print(f"[ERRO] Imagem cortada não encontrada: {placa.imagem_cortada}")
         return
-
-    # Redimensiona a imagem para aumentar a definição
-    escala = 3
-    imagem = cv2.resize(imagem, (0, 0), fx=escala, fy=escala, interpolation=cv2.INTER_CUBIC)
 
     # Conversão para tons de cinza
     gray_image = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
@@ -55,7 +68,7 @@ def PreProcessamentoImagem(placa):
     processed_image = cv2.dilate(blurred_image, kernel, iterations=1)
 
     caminho_saida = os.path.join("PlacasTratadas", placa.titulo)
-    cv2.imwrite(caminho_saida, imagem)
+    cv2.imwrite(caminho_saida, gray_image)
     placa.imagem_tratada = caminho_saida
 
 # Monta uma lista da classe Placa a partir da pasta com imagens e do CSV
@@ -87,8 +100,8 @@ if __name__ == "__main__":
         os.makedirs(pasta)
 
     # Caminhos
-    pasta_imagens = r'C:\Users\Raul\Desktop\Danilo\CP3-OCR-Placas\Placas'
-    caminho_csv = r'C:\Users\Raul\Desktop\Danilo\CP3-OCR-Placas\Placas\labelLocalizacao.csv'
+    pasta_imagens = r'C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos\Placas'
+    caminho_csv = r'C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos\Placas\labelLocalizacao.csv'
 
     # Executa pipeline
     placas = MontarListaDePlacas(pasta_imagens, caminho_csv)
