@@ -1,0 +1,234 @@
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR: SS OFS
+[Placa5.png] Texto OCR: 2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIOZAI94
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: R102A196
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR: OS I SF5
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: 4PZL9906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: D 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZL9906
+[Placa4.png] Texto OCR: LL
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RE
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: V2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR: 7 OFS
+[Placa5.png] Texto OCR: OV2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: EOV2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIOZAI94
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIOZAI94
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RLOZAL94N
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZ9906
+[Placa4.png] Texto OCR: LOE SS
+[Placa5.png] Texto OCR: D 3 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDAIDA
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZ19906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+[Placa6.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: T1ODAIDA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZL9906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 173
+[Placa6.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDAIDA
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZ19906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDAIDA
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZ19906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDAIDA
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZ19906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RLOZAL94N
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZ9906
+[Placa4.png] Texto OCR: LOE SS
+[Placa5.png] Texto OCR: D 3 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR: D
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDAIDA
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZ19906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: R1ODA1D4
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZL9905
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RLDDAIDA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZL9905
+[Placa4.png] Texto OCR: MLUEST
+[Placa5.png] Texto OCR: AE 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: 3
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLDATD
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLDATDA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: V2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLODAIDA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: SOW2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLODAIDA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: SOW2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLODA1DA
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR: PZL9906
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR:
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TLDAID
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 2 172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: T
+[Placa2.png] Texto OCR:
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 2172
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripton.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: TOATDA
+[Placa2.png] Texto OCR: GAR 44
+[Placa3.png] Texto OCR:
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 2172
+[Placa6.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripts/python.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: RIDDA1D4
+[Placa2.png] Texto OCR: GAE0244 GAEO2 44
+[Placa3.png] Texto OCR: PZL9905
+[Placa4.png] Texto OCR: WAFS
+[Placa5.png] Texto OCR: SO 172
+[Placa6.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> & C:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/env/Scripts/python.exe c:/Users/Raul/Desktop/Danilo/OCR_Placas_Veiculos/Ocr_placas.py
+[Placa1.png] Texto OCR: R1ODA1D4
+[Placa2.png] Texto OCR: GAE0244
+[Placa3.png] Texto OCR: PZL9905
+[Placa4.png] Texto OCR:
+[Placa5.png] Texto OCR: 172
+[Placa6.png] Texto OCR:
+PS C:\Users\Raul\Desktop\Danilo\OCR_Placas_Veiculos> 
